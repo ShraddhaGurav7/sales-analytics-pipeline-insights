@@ -72,7 +72,6 @@ Interactive dashboard built using Power BI:
 * Sales performance metrics
 * Product insights
 
-(Add screenshot below)
 
 ---
 
